@@ -72,21 +72,21 @@ export default {
     return {
       inputName: "",
       list:[
-        {
-          name:"Hồ Chí Tưởng"
-        },
-        {
-          name:"Nguyễn Văn A"
-        },
-        {
-          name:"Nguyễn Văn B"
-        },
-        {
-          name:"Nguyễn Văn C"
-        },
-        {
-          name:"Nguyễn Văn D"
-        }
+        // {
+        //   name:"Hồ Chí Tưởng"
+        // },
+        // {
+        //   name:"Nguyễn Văn A"
+        // },
+        // {
+        //   name:"Nguyễn Văn B"
+        // },
+        // {
+        //   name:"Nguyễn Văn C"
+        // },
+        // {
+        //   name:"Nguyễn Văn D"
+        // }
       ]
     }
   }
